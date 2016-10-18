@@ -1,5 +1,5 @@
 ---
-title: The Fuze Box and building conversations  
+title: The Fuze Box and the roundup project  
 layout: post
 author: finn.henry
 permalink: /the-fuze-box-and-building-conversations--/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Building Conversations</td>
+    <td>The roundup project</td>
     <td>Date</td>
-    <td>12/10/ 2016</td>
+    <td>17/10/ 2016</td>
   </tr>
 </table>
 
@@ -19,16 +19,15 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Pg 39</td>
+    <td>At the start of the Unit one roundup project</td>
   </tr>
   <tr>
     <td>Target this lesson</td>
-    <td>To work through the book and learn how to have a conversation</td>
+    <td>To create the long project</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Did I reach my target? </td>
+    <td>Yes I did.</td>
   </tr>
 </table>
 
@@ -41,19 +40,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by trying new strategies and approaching the problems from different angles to complete the problem. The strategies that were successful were using the book to guide what you do but not copying otherwise you will have to "learn" it again in the next lesson. To properly move forward you need to do what the book tells you and then experiment. </td>
+    <td>The lesson was not really a lesson in which I was learning. It was more about testing the skills I have already learnt and using them to create the project. The strategies that were effective were copying and then reflecting on what we had just done so that we know why we did it. Another strategy that was effective was trial and error. Try something and see where there was an error and then look at the book to understand where you went wrong. It tested how much we knew much more than if we just copied it.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I had to keep looking back because I had forgot what I had done the week before and only copied, not learnt what was in the book. This meant our progress was slow and we made some mistakes which took time and concentration to correct. We even made a mistake which we couldn't find and had to do the work all over again. I need to work on not copying and learning more.</td>
+    <td>The thing that limited my learning was my typing speed. It stopped us progressing quickly especially when it is a lot of typing and not a lot of reading/learning. Therefore I need to work on the speed of my typing as it came apparent that my typing wasn't good enough to progress as quickly as possible. I also need to work on packing up quicker as we are having to finish early to pack up on time. </td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will experiment without copying the book with different variables and text to see if I really understand what is in the book. If I learn it and experiment more, I will improve my learning by being quicker, more efficient and actually learn it to use in the future. Especially when we do even harder coding, I need to be able to do the basics easy peasy and not just do it while reading or copying it off a book</td>
+    <td>Next time I will pack up quickly, efficiently and as soon as I am told to. I will also try to use trial and error method more when doing the project. I will improve by making my touch typing better and quicker. This will all improve my learning by making us work quicker, more efficiently and for a longer amount of time. This will let us get a lot more into each lesson.</td>
   </tr>
 </table>
 
