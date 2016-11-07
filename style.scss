@@ -163,6 +163,28 @@ img {
   }
 }
 
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid white
+		backround-colour:#003300;
+}
+
+td {
+	vertical-align: middle; 
+	padding: 10px;
+}	
+
+th {
+	color: white;
+	background: #233237;
+	height:50px;
+	vertical-align: middle;
+}
+
 .site-avatar {
   float: left;
   width: 70px;
