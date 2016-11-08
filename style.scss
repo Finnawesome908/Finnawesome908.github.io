@@ -169,14 +169,15 @@ table {
 }
 
 table, th, td {
-	border: 1px solid white
-		+003300;
+	border: 1px solid white;
+	background-color:#984b43;
+
 }
 
 td {
 	vertical-align: middle; 
 	padding: 10px;
-}	
+} 
 
 th {
 	color: white;
