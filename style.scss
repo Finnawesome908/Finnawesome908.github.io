@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: #99ccff;
+  color: #000000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #99ccff;
+    color: #000000;
   }
 }
 
@@ -117,17 +117,17 @@ img {
 
 .date {
   font-style: italic;
-  color: #003300;
+  color: #000000;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #003300;
-  background: #99ccff;
+  color: #000000;
+  background: #000000;
 }
 ::selection {
-  color: #003300;
-  background: #99ccff;
+  color: #000000;
+  background: #000000;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #99ccff;
+  border-bottom: 1px solid #000000;
 
   @include mobile {
     text-align: center;
@@ -170,7 +170,7 @@ table {
 
 table, th, td {
 	border: 1px solid white;
-	background-color:#984b43;
+	background-color:#000000;
 
 }
 
